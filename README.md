@@ -1,3 +1,3 @@
-# RSSB Frontend
+# Normal testing
 
-This is the frontend part of the RSSB application. It uses Nextjs and its latest features.
+NextJS
